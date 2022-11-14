@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/SimonKaresz/Weather-app-React/static/css/main.fde902e7.css",
-    "main.js": "/SimonKaresz/Weather-app-React/static/js/main.793a9aed.js",
-    "static/media/Snow.svg": "/SimonKaresz/Weather-app-React/static/media/Snow.5ec2ff59282279ff3307250878543712.svg",
-    "static/media/thunderstorm.svg": "/SimonKaresz/Weather-app-React/static/media/thunderstorm.19ee808e8cc3e48dcc978122a0fe1012.svg",
-    "static/media/cloud_rainy.svg": "/SimonKaresz/Weather-app-React/static/media/cloud_rainy.874cdae905f6e1e80eee63e410249883.svg",
-    "static/media/sunny.svg": "/SimonKaresz/Weather-app-React/static/media/sunny.5171122c15268404f67450e257b61aaa.svg",
-    "static/media/clouds.svg": "/SimonKaresz/Weather-app-React/static/media/clouds.d416d18e1455acaa02ddcef85bc1934d.svg",
-    "static/media/foggy.svg": "/SimonKaresz/Weather-app-React/static/media/foggy.638a167a6c50ab103939582074fcb2d3.svg",
-    "index.html": "/SimonKaresz/Weather-app-React/index.html",
-    "main.fde902e7.css.map": "/SimonKaresz/Weather-app-React/static/css/main.fde902e7.css.map",
-    "main.793a9aed.js.map": "/SimonKaresz/Weather-app-React/static/js/main.793a9aed.js.map"
+    "main.css": "/Weather-app-React/static/css/main.fde902e7.css",
+    "main.js": "/Weather-app-React/static/js/main.421a9480.js",
+    "static/media/Snow.svg": "/Weather-app-React/static/media/Snow.5ec2ff59282279ff3307250878543712.svg",
+    "static/media/thunderstorm.svg": "/Weather-app-React/static/media/thunderstorm.19ee808e8cc3e48dcc978122a0fe1012.svg",
+    "static/media/cloud_rainy.svg": "/Weather-app-React/static/media/cloud_rainy.874cdae905f6e1e80eee63e410249883.svg",
+    "static/media/sunny.svg": "/Weather-app-React/static/media/sunny.5171122c15268404f67450e257b61aaa.svg",
+    "static/media/clouds.svg": "/Weather-app-React/static/media/clouds.d416d18e1455acaa02ddcef85bc1934d.svg",
+    "static/media/foggy.svg": "/Weather-app-React/static/media/foggy.638a167a6c50ab103939582074fcb2d3.svg",
+    "index.html": "/Weather-app-React/index.html",
+    "main.fde902e7.css.map": "/Weather-app-React/static/css/main.fde902e7.css.map",
+    "main.421a9480.js.map": "/Weather-app-React/static/js/main.421a9480.js.map"
   },
   "entrypoints": [
     "static/css/main.fde902e7.css",
-    "static/js/main.793a9aed.js"
+    "static/js/main.421a9480.js"
   ]
 }
